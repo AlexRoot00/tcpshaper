@@ -1,6 +1,6 @@
 module github.com/gerritjvv/tcpshaper
 
-go 1.12
+go 1.20
 
 require (
 	github.com/rjeczalik/netxtest v0.0.0-20190924130813-765a8eee5d0b
